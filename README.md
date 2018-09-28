@@ -7,3 +7,5 @@ calculated by shifting the sections of space on the 2D plane.   Fade transitions
 added using Adobe premier in post production.
 
 Assignment3_20171.m is the main file for rendering the video
+
+You can see the video here: https://drive.google.com/file/d/0BxRtUHCwAmntNkVIZkJVRE1WTTQ/view
